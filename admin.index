@@ -1,0 +1,31 @@
+"[Fail2Ban] SSH: banned 186.101.2.130 from wally2.","Fail2Ban 
+<fail2ban@example.com>","root@wally2.example.org",06/11/2015 14:59, ,
+<fail2ban@example.com>","root@wally2.example.org",06/12/2015 0:10, ,
+"[Fail2Ban] SSH: banned 91.200.12.21 from smwally","Fail2Ban 
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 0:31, ,
+"Cron <root@david> time /usr/local/bin/rsbu -vubd1","(Cron Daemon) 
+<root@david1.example.org>","david@example.org",06/12/2015 1:01, ,
+"Cron <root@office1> /usr/local/bin/dbu -bu","root@office1.church-ral.org 
+(Cron Daemon)","david@example.org",06/12/2015 1:07, ,
+"Logwatch for wally1.example.org 
+(Linux)","logwatch@wally1.example.org","root@wally1.example.org",06/12/2015 3:11, ,
+"rkhunter Daily Run on david.example.org","root 
+<root@david1.example.org>","root@david1.example.org",06/12/2015 3:12, ,
+"rkhunter Daily Run on office1.church-ral.org","root <root@office1.church-ral.org>","root@office1.church-ral.org",06/12/2015 3:12, ,
+"Logwatch for alice1.example.org
+(Linux)","logwatch@alice1.example.org","root@alice1.example.org",06/12/2015 3:48, ,
+"[Fail2Ban] SSH: banned 212.118.132.162 from smwal","Fail2Ban 
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 5:04, ,
+"[Fail2Ban] SSH: banned 82.187.240.70 from smwally","Fail2Ban 
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 5:12, ,
+"[Fail2Ban] SSH: banned 132.248.173.10 from smwall","Fail2Ban 
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 5:22, ,
+"[Fail2Ban] SSH: banned 212.118.132.162 from smwal","Fail2Ban
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 5:04, ,
+"[Fail2Ban] SSH: banned 82.187.240.70 from smwally","Fail2Ban
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 5:12, ,
+"[Fail2Ban] SSH: banned 132.248.173.10 from smwall","Fail2Ban
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 5:22, ,
+"[Fail2Ban] SSH: banned 82.187.240.70 from smwally","Fail2Ban
+<fail2ban@church-ral.org>","root@smwally.church-ral.org",06/12/2015 5:12, ,
+
